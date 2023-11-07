@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    text-align: center;
+}
+.ılkbaslık {
+    color: red;
+
+}
+h2 {
+    color: blueviolet;
+    padding-bottom: 8px;
+}
+h3 {
+    color: goldenrod ;
+    padding: 8px 0px;
+}
+
+body > ul > li {
+    list-style-position: inside;
+}
+
+
+
+.containerabout {
+    text-align: start;
+}
+
+.navbar {
+    list-style: none;
+    display: block;
+    padding: 10px ;
+}
+
+.navbar li {
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
